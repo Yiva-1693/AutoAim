@@ -1,0 +1,30 @@
+# --- Gradle ---
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- IDE / Editor ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.eclipse/
+bin/
+
+# --- OS / misc ---
+.DS_Store
+Thumbs.db
+*.log
+*.hprof
+
+# --- Minecraft / Forge dev artifacts ---
+run/
+runs/
+logs/
+crash-reports/
+local/
