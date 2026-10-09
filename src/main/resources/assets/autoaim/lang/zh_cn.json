@@ -1,3 +1,5 @@
 {
-  "enchantment.autoaim.auto_aim": "自瞄"
+  "enchantment.autoaim.auto_aim": "自瞄",
+  "key.categories.autoaim": "自瞄",
+  "key.autoaim.toggle": "自瞄（按住）"
 }

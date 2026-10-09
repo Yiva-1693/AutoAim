@@ -1,3 +1,5 @@
 {
-  "enchantment.autoaim.auto_aim": "Auto Aim"
+  "enchantment.autoaim.auto_aim": "Auto Aim",
+  "key.categories.autoaim": "Auto Aim",
+  "key.autoaim.toggle": "Auto Aim (Hold)"
 }
